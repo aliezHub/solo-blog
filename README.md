@@ -10,14 +10,20 @@
 
 ### 最新
 
-* [docker-ce安装](https://www.aliez.com.cn/articles/2019/12/13/1576249590749.html)
-* [分布式存储之FastDFS搭建部署(基于ubuntu系统)](https://www.aliez.com.cn/articles/2019/12/12/1576163536907.html)
-* [kvm学习指南](https://www.aliez.com.cn/articles/2019/12/12/1576080154976.html)
-* [国内外部分开源软件镜像站和部分软件官方网站](https://www.aliez.com.cn/articles/2019/12/11/1576078709141.html)
-* [php安装](https://www.aliez.com.cn/articles/2019/12/11/1576078541741.html)
-* [nginx平滑升级](https://www.aliez.com.cn/articles/2019/12/11/1576077884067.html)
-
-
+* [Harbor安装部署.md](https://www.aliez.com.cn/articles/2020/01/21/1579587088838.html)
+* [LVM学习.md](https://www.aliez.com.cn/articles/2019/12/26/1577353085137.html)
+* [Rediscluster部署.md](https://www.aliez.com.cn/articles/2019/12/19/1576757776692.html)
+* [centos7修改服务器时间.md](https://www.aliez.com.cn/articles/2020/01/20/1579502096108.html)
+* [dockerce安装.md](https://www.aliez.com.cn/articles/2019/12/13/1576249590749.html)
+* [kvm学习指南.md](https://www.aliez.com.cn/articles/2019/12/12/1576080154976.html)
+* [nginx平滑升级.md](https://www.aliez.com.cn/articles/2019/12/11/1576077884067.html)
+* [php安装.md](https://www.aliez.com.cn/articles/2019/12/11/1576078541741.html)
+* [postgresql创建一个只读用户.md](https://www.aliez.com.cn/articles/2020/07/07/1594089877677.html)
+* [postgresql回收权限以及删除用户.md](https://www.aliez.com.cn/articles/2020/07/07/1594090115322.html)
+* [postgresql在对库进行重命名操作时报如下错误ERRORdatabaseAAAisbeingaccessedbyotherusersDETAILThereare3othersessionsusingthedatabases.md](https://www.aliez.com.cn/articles/2020/05/18/1589772584418.html)
+* [zookeeperkafka集群搭建.md](https://www.aliez.com.cn/articles/2019/12/17/1576582295053.html)
+* [分布式存储之FastDFS搭建部署基于ubuntu系统.md](https://www.aliez.com.cn/articles/2019/12/12/1576163536907.html)
+* [国内外部分开源软件镜像站和部分软件官方网站.md](https://www.aliez.com.cn/articles/2019/12/11/1576078709141.html)
 
 ---
 
